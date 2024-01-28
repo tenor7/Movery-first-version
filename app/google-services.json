@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210199491154",
+    "project_id": "mediatec-d96b2",
+    "storage_bucket": "mediatec-d96b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210199491154:android:e10be3554893640050a58b",
+        "android_client_info": {
+          "package_name": "com.example.mediatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210199491154-tfk6hm7ebobaealvt8knuq95m97bte3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHK4XoGLjP02cmldweembd8AvPXSlfBGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210199491154-tfk6hm7ebobaealvt8knuq95m97bte3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

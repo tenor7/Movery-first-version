@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF19191F">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:height="50dp"
+            android:text="Введите id пользователя, которого хотите удалить"
+            android:textSize="16sp"
+            android:layout_marginTop="80dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="100dp"
+            android:textColor="#FFFFFF"
+            />
+
+        <EditText
+            android:id="@+id/deleteId"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textColor="#FFFFFF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Введите id"
+            android:textColorHint="#7E7E7E"
+            android:background="#24242B"
+            android:inputType="text">
+        </EditText>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_marginTop="35dp"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="100dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Удалить"
+            android:background="@drawable/btn_login"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

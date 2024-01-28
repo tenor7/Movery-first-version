@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_bottom">#ACACAC</color>
+    <color name="ripple_effect">#002EA6</color>
+    <color name="btn_login">#0047FF</color>
+    <color name="btn_register">#0047FF</color>
+</resources>

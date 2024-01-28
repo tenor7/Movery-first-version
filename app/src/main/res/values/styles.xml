@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#19191F</item>
+        <item name="colorPrimaryDark">#19191F</item>
+        <item name="colorAccent">#19191F</item>
+    </style>
+
+    <style name="AppTheme2" parent="android:Theme.Light">
+        <item name="colorPrimary">#0047FF</item>
+        <item name="colorPrimaryDark">#0047FF</item>
+        <item name="colorAccent">#0047FF</item>
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">#19191F</item>
+    </style>
+
+</resources>
